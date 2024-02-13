@@ -1,10 +1,10 @@
-<!-- ![Course Banner](banner.png) -->
+![Course Banner](banner.png)
 
 Welcome Spring Semester 2024 students to our course **Artificial Intelligence**, taught by **Prof. Dr. Damian Borth**.
 
 Lectures, exercise sheets and hands-on lab courses alternate to provide a better learning experience in this course. The materials for Artificial Intelligence labs are available and accessible through this repository.
 
-The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Joëlle Hanna](https://www.alexandria.unisg.ch/persons/9589) and [Hamed Hemati](https://www.alexandria.unisg.ch/persons/8884).
+The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Joëlle Hanna](https://www.alexandria.unisg.ch/entities/person/Joelle_Hanna/indicators) and [Hamed Hemati](https://www.alexandria.unisg.ch/entities/person/Hamed_Hemati/indicators).
 
 
 
@@ -15,7 +15,7 @@ Happy Coding!
 - **Lectures:** Fridays 10:15-12:00PM CET, Zoom links are posted on Canvas.
 - **Exercises and Labs:** Mondays 4:15-5:45PM CET, Zoom links are posted on Canvas.
 
-- **Labs Office Hours:** TBD ([Joëlle Hanna](https://www.alexandria.unisg.ch/persons/9589)) or TTBD ([Hamed Hemati](https://www.alexandria.unisg.ch/persons/8884)), please send us a corresponding invitation via mail.
+- **Labs Office Hours:** Thursdays 2-3PM CET ([Joëlle Hanna](https://www.alexandria.unisg.ch/entities/person/Joelle_Hanna/indicators)) or Tuesdays 11-12PM CET ([Hamed Hemati](https://www.alexandria.unisg.ch/entities/person/Hamed_Hemati/indicators)), please send us a corresponding invitation via mail.
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
@@ -23,11 +23,14 @@ Happy Coding!
 This table lists all lab sessions incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
 
 
-<!-- | Date                    | Lab        |  Content                         |  CoLab                 | MyBinder|
-|:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|:-------:|
-| Mon, OCT. 9            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]() |
-| Mon, OCT. 16            | **Lab 2**   | Continual Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]() |
-| Mon, Nov. 20            | **Lab 4**   | Federated Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2023-Lab/blob/main/lab_4/colab_04.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2023-Lab/blob/main/lab_4/colab_04.ipynb) | -->
+| Date                    | Lab        |  Content                         |  CoLab                 |
+|:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|
+| Mon, Feb. 26           | **Lab 1**   | Intro / Python Recap I          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_01/lab_01.ipynb) |
+| Mon, Mar. 04            | **Lab 2**   | Python Recap II     | - |
+| Mon, Mar. 18            | **Lab 3**   | Search    | - |
+| Mon, Apr. 22            | **Lab 4**   | Naive Bayes / KNN     | - |
+| Mon, May 06            | **Lab 5**   | Neural Networks     | - |
+| Mon, May 20            | **Lab 6**   | CNN    | - |
 
 ## Running the Course Code Lab Notebooks using Google Colab Environment ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAAA/blob/main))
 
