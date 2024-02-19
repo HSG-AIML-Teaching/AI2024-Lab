@@ -13,9 +13,9 @@ Happy Coding!
 ## Course Logistics
 
 - **Lectures:** Fridays 10:15-12:00PM CET, Zoom links are posted on Canvas.
-- **Exercises and Labs:** Mondays 4:15-5:45PM CET, Zoom links are posted on Canvas.
+- **Exercises and Labs:** Mondays 2:15-3:45PM CET, Zoom links are posted on Canvas.
 
-- **Labs Office Hours:** Thursdays 2-3PM CET ([Joëlle Hanna](https://www.alexandria.unisg.ch/entities/person/Joelle_Hanna/indicators)) or Tuesdays 11-12PM CET ([Hamed Hemati](https://www.alexandria.unisg.ch/entities/person/Hamed_Hemati/indicators)), please send us a corresponding invitation via mail.
+- **Labs Office Hours:** Thursdays 2:00-3:00PM CET ([Joëlle Hanna](https://www.alexandria.unisg.ch/entities/person/Joelle_Hanna/indicators)) or Tuesdays 11:00-12:00PM CET ([Hamed Hemati](https://www.alexandria.unisg.ch/entities/person/Hamed_Hemati/indicators)), please send us a corresponding invitation via mail.
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
