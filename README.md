@@ -4,8 +4,7 @@ Welcome Spring Semester 2024 students to our course **Artificial Intelligence**,
 
 Lectures, exercise sheets and hands-on lab courses alternate to provide a better learning experience in this course. The materials for Artificial Intelligence labs are available and accessible through this repository.
 
-The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Joëlle Hanna](https://www.alexandria.unisg.ch/entities/person/Joelle_Hanna/indicators) and [Hamed Hemati](https://www.alexandria.unisg.ch/entities/person/Hamed_Hemati/indicators).
-
+The lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Joëlle Hanna](https://www.alexandria.unisg.ch/entities/person/Joelle_Hanna/indicators) and [Hamed Hemati](https://www.alexandria.unisg.ch/entities/person/Hamed_Hemati/indicators).
 
 
 Happy Coding!
@@ -26,7 +25,7 @@ This table lists all lab sessions incl. the launchers of the corresponding noteb
 | Date                    | Lab        |  Content                         |  CoLab                 |
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|
 | Mon, Feb. 26           | **Lab 1**   | Intro / Python Recap I          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_01/lab_01.ipynb) |
-| Mon, Mar. 04            | **Lab 2**   | Python Recap II     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_02/lab_02.ipynb) |
+| Mon, Mar. 04            | **Lab 2**   | Python Recap II     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/AI2024-Lab/blob/main/lab_01/lab_01.ipynb) |
 | Mon, Mar. 18            | **Lab 3**   | Search    | - |
 | Mon, Apr. 22            | **Lab 4**   | Naive Bayes / KNN     | - |
 | Mon, May 06            | **Lab 5**   | Neural Networks     | - |
